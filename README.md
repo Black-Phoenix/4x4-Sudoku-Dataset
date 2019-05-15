@@ -1,6 +1,6 @@
-#Data set of 4x4 Sudoku puzzles and solutions.
+# Data set of 4x4 Sudoku puzzles and solutions.
 
-##Data generation
+## Data generation
 The sudoku generation was done by referring to a code by Arel Cordero, who wrote and shared this Sudoku generation code. https://www.ocf.berkeley.edu/~arel/sudoku/main.html.
 It took approximately 2 hours to generate 1 million games and its solutions. The data is stored in two a comma-separated values files
 
